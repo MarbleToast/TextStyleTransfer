@@ -1,3 +1,8 @@
+"""
+https://github.com/fuzhenxin/Style-Transfer-in-Text
+https://github.com/zhijing-jin/Text_Style_Transfer_Survey
+"""
+
 import nltk
 from nltk.tokenize import word_tokenize
 import numpy as np
